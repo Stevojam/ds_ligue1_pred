@@ -32,7 +32,7 @@ Year,Team,Squad,Average_age,Market_value
 2012,OGC Nice ,39,23.3,€59.15m
 2012,Valenciennes FC ,32,25.6,€49.75m
 2012,FC Sochaux-Montbéliard ,34,24.7,€46.85m
-2012,AS Nancy-Lorraine ,37,23.2,€36.85m
+2012,AS Nancy-Lorraine ,37,23.1,€36.85m
 2012,Stade Brestois 29 ,37,25.4,€36.10m
 2012,SC Bastia  ,37,25.8,€36.05m
 2012,FC Évian Thonon Gaillard ,35,26.5,€34.55m
@@ -86,7 +86,7 @@ Year,Team,Squad,Average_age,Market_value
 2015,AS Saint-Étienne ,40,25.1,€97.20m
 2015,Stade Rennais FC ,38,24.6,€94.15m
 2015,FC Girondins Bordeaux ,42,23.5,€90.70m
-2015,OGC Nice ,35,23.4,€71.00m
+2015,OGC Nice ,35,23.4,€70.95m
 2015,LOSC Lille ,34,25.5,€70.80m
 2015,FC Lorient ,35,24.7,€58.05m
 2015,Montpellier HSC ,32,25.9,€44.40m
@@ -95,7 +95,7 @@ Year,Team,Squad,Average_age,Market_value
 2015,FC Nantes ,32,24.8,€39.30m
 2015,SM Caen ,30,25.6,€36.80m
 2015,EA Guingamp ,31,26.8,€33.50m
-2015,SCO Angers  ,34,27.3,€32.35m
+2015,Angers SCO  ,34,27.3,€32.35m
 2015,ESTAC Troyes  ,37,26.3,€30.70m
 2015,SC Bastia ,31,25.8,€24.25m
 2015,GFC Ajaccio  ,30,25.8,€18.40m
@@ -109,15 +109,15 @@ Year,Team,Squad,Average_age,Market_value
 2016,LOSC Lille ,46,24.6,€83.90m
 2016,Stade Rennais FC ,43,25.0,€80.90m
 2016,FC Toulouse ,38,23.9,€77.30m
-2016,FC Lorient ,41,25.1,€61.40m
+2016,FC Lorient ,41,25.1,€61.10m
 2016,Montpellier HSC ,35,25.6,€60.95m
 2016,FC Nantes ,30,24.4,€50.90m
-2016,SCO Angers ,36,26.3,€46.08m
+2016,Angers SCO ,36,26.3,€46.08m
 2016,EA Guingamp ,35,26.2,€42.50m
 2016,FC Metz  ,39,24.5,€37.55m
 2016,SM Caen ,36,26.1,€36.65m
 2016,SC Bastia ,37,25.1,€36.45m
-2016,AS Nancy-Lorraine  ,30,26.1,€33.10m
+2016,AS Nancy-Lorraine ,30,26.1,€33.10m
 2016,Dijon FCO  ,33,26.3,€31.20m
 2017,Paris Saint-Germain ,35,25.0,€900.10m
 2017,AS Monaco ,38,23.5,€529.80m
@@ -133,7 +133,7 @@ Year,Team,Squad,Average_age,Market_value
 2017,Montpellier HSC ,30,25.4,€71.85m
 2017,Dijon FCO ,35,25.6,€70.30m
 2017,Amiens SC  ,34,27.3,€69.85m
-2017,SCO Angers ,33,26.1,€69.55m
+2017,Angers SCO ,33,26.1,€69.55m
 2017,SM Caen ,33,25.8,€60.10m
 2017,EA Guingamp ,30,26.7,€51.90m
 2017,FC Metz ,44,24.7,€51.20m
@@ -154,7 +154,7 @@ Year,Team,Squad,Average_age,Market_value
 2018,RC Strasbourg Alsace ,33,25.2,€98.00m
 2018,Nîmes Olympique  ,31,25.0,€88.15m
 2018,Stade Reims  ,37,24.5,€86.95m
-2018,SCO Angers ,38,26.5,€79.70m
+2018,Angers SCO ,38,26.5,€79.70m
 2018,EA Guingamp ,37,25.3,€70.65m
 2018,Amiens SC ,36,25.4,€70.50m
 2018,SM Caen ,39,24.8,€67.55m
@@ -167,55 +167,93 @@ Year,Team,Squad,Average_age,Market_value
 2019,OGC Nice ,37,23.1,€173.45m
 2019,Stade Rennais FC ,33,25.0,€171.88m
 2019,FC Girondins Bordeaux ,31,25.0,€125.35m
-2019,FC Nantes ,35,25.0,€106.30m
+2019,FC Nantes ,35,25.0,€106.15m
 2019,AS Saint-Étienne ,41,24.8,€104.83m
-2019,RC Strasbourg Alsace ,31,25.7,€91.38m
-2019,SCO Angers ,31,25.9,€89.48m
+2019,RC Strasbourg Alsace ,31,25.7,€91.13m
+2019,Angers SCO ,31,25.9,€89.48m
 2019,Montpellier HSC ,30,26.2,€81.68m
 2019,Stade Reims ,31,23.7,€81.68m
 2019,FC Toulouse ,35,23.5,€71.88m
-2019,Amiens SC ,37,25.3,€62.08m
+2019,Amiens SC ,37,25.3,€61.93m
 2019,FC Metz  ,32,24.4,€54.10m
 2019,Dijon FCO ,31,25.3,€50.23m
 2019,Nîmes Olympique ,35,23.8,€49.65m
 2019,Stade Brestois 29  ,28,26.0,€47.78m
 2020,Paris Saint-Germain ,41,24.2,€805.00m
-2020,Olympique Lyon ,40,24.2,€431.40m
+2020,Olympique Lyon ,40,24.2,€431.35m
 2020,AS Monaco ,33,24.0,€370.35m
 2020,LOSC Lille ,32,23.6,€323.20m
 2020,Stade Rennais FC ,37,24.2,€297.50m
-2020,Olympique Marseille ,43,24.2,€251.40m
+2020,Olympique Marseille ,37,24.9,€247.95m
 2020,OGC Nice ,41,22.4,€236.10m
-2020,AS Saint-Étienne ,43,23.6,€154.65m
+2020,AS Saint-Étienne ,43,23.6,€154.50m
 2020,Montpellier HSC ,34,25.2,€113.85m
-2020,SCO Angers ,38,25.8,€111.65m
+2020,Angers SCO ,38,25.8,€111.65m
 2020,RC Strasbourg Alsace ,34,25.2,€109.65m
 2020,FC Girondins Bordeaux ,36,25.4,€105.70m
 2020,Stade Reims ,34,23.1,€105.18m
 2020,RC Lens  ,36,24.9,€104.30m
 2020,FC Metz ,35,24.6,€103.50m
 2020,Stade Brestois 29 ,32,25.2,€103.23m
-2020,FC Nantes ,32,25.4,€95.08m
-2020,FC Lorient  ,34,26.4,€73.53m
+2020,FC Nantes ,32,25.4,€94.75m
+2020,FC Lorient  ,34,26.4,€72.88m
 2020,Dijon FCO ,37,24.3,€65.63m
 2020,Nîmes Olympique ,36,24.9,€60.40m
-2021,Paris Saint-Germain ,36,25.3,€909.55m
-2021,AS Monaco ,29,24.0,€360.20m
-2021,Olympique Lyon ,26,24.7,€316.05m
-2021,Olympique Marseille ,28,23.9,€250.35m
-2021,LOSC Lille ,22,25.5,€239.30m
-2021,OGC Nice ,27,23.9,€237.95m
-2021,Stade Rennais FC ,26,23.5,€216.90m
-2021,RC Lens ,25,25.2,€113.70m
-2021,AS Saint-Étienne ,30,24.9,€106.90m
-2021,Stade Reims ,27,24.1,€99.00m
-2021,Montpellier HSC ,25,24.5,€98.55m
-2021,RC Strasbourg Alsace ,24,25.9,€95.40m
-2021,FC Metz ,30,25.5,€89.70m
-2021,FC Nantes ,26,25.9,€89.50m
-2021,FC Girondins Bordeaux ,30,25.1,€87.85m
-2021,Stade Brestois 29 ,26,25.3,€76.85m
-2021,SCO Angers ,25,26.1,€61.05m
-2021,ESTAC Troyes  ,32,26.0,€58.75m
-2021,FC Lorient ,27,25.4,€52.80m
-2021,Clermont Foot 63  ,27,25.9,€42.65m
+2021,Paris Saint-Germain ,41,25.7,€875.15m
+2021,Olympique Lyon ,40,24.3,€397.70m
+2021,AS Monaco ,41,23.3,€396.00m
+2021,LOSC Lille ,41,24.0,€306.88m
+2021,Stade Rennais FC ,36,22.9,€305.35m
+2021,Olympique Marseille ,38,23.5,€284.70m
+2021,OGC Nice ,34,23.8,€266.05m
+2021,RC Lens ,35,24.8,€154.05m
+2021,Stade Reims ,40,23.5,€149.40m
+2021,Montpellier HSC ,36,24.8,€144.60m
+2021,RC Strasbourg Alsace ,33,24.8,€120.05m
+2021,FC Girondins Bordeaux ,54,24.0,€116.85m
+2021,FC Nantes ,31,25.6,€112.65m
+2021,AS Saint-Étienne ,44,24.0,€105.65m
+2021,Stade Brestois 29 ,30,25.4,€103.15m
+2021,FC Metz ,41,25.0,€91.05m
+2021,Angers SCO ,38,25.4,€89.50m
+2021,ESTAC Troyes  ,50,24.6,€73.20m
+2021,FC Lorient ,35,25.4,€61.30m
+2021,Clermont Foot 63  ,39,25.1,€55.10m
+2022,Paris Saint-Germain ,37,25.5,€891.25m
+2022,Stade Rennais FC ,38,23.8,€387.75m
+2022,AS Monaco ,32,23.8,€368.30m
+2022,Olympique Lyon ,34,24.9,€350.95m
+2022,Olympique Marseille ,37,25.2,€331.55m
+2022,OGC Nice ,41,23.9,€310.80m
+2022,LOSC Lille ,33,24.8,€247.95m
+2022,RC Lens ,39,24.9,€238.20m
+2022,FC Lorient ,42,24.1,€175.45m
+2022,Stade Reims ,40,23.4,€159.05m
+2022,Montpellier HSC ,39,24.6,€142.90m
+2022,RC Strasbourg Alsace ,36,25.6,€123.55m
+2022,FC Nantes ,37,25.5,€119.28m
+2022,FC Toulouse  ,37,23.5,€104.80m
+2022,Stade Brestois 29 ,32,25.8,€76.65m
+2022,ESTAC Troyes ,41,24.4,€76.30m
+2022,Angers SCO ,44,24.6,€71.80m
+2022,AJ Auxerre  ,42,26.0,€54.80m
+2022,Clermont Foot 63 ,33,25.8,€48.00m
+2022,AC Ajaccio  ,41,26.6,€27.00m
+2023,Paris Saint-Germain ,29,25.1,€1.07bn
+2023,AS Monaco ,27,23.6,€344.80m
+2023,Stade Rennais FC ,25,24.1,€280.50m
+2023,Olympique Marseille ,25,25.3,€248.80m
+2023,OGC Nice ,29,23.8,€245.00m
+2023,LOSC Lille ,24,25.5,€226.60m
+2023,RC Lens ,29,25.5,€212.55m
+2023,Olympique Lyon ,28,24.6,€192.65m
+2023,RC Strasbourg Alsace ,27,24.1,€129.85m
+2023,FC Nantes ,28,25.4,€113.40m
+2023,Stade Reims ,24,24.7,€110.95m
+2023,FC Lorient ,30,24.6,€110.90m
+2023,Montpellier HSC ,23,25.1,€93.45m
+2023,FC Toulouse ,29,23.0,€79.30m
+2023,Stade Brestois 29 ,25,25.4,€77.65m
+2023,Le Havre AC  ,29,24.6,€55.40m
+2023,Clermont Foot 63 ,24,26.4,€51.75m
+2023,FC Metz  ,30,24.7,€37.55m
